@@ -9,6 +9,7 @@ The prime object of these projects is **descriptive**, that is **identify patter
 ## **Project List**  
 All projects are listed below in **alphabetical order**:  
 
+- [**Airline Exploratory Data Analysis (EDA) with Python**](https://github.com/simodepth96/Data-Science-Portfolio/blob/main/Airline_EDA_Analysis.ipynb)
 - [**Analytics for Content Optimization**](https://github.com/simodepth96/Data-Science-Portfolio/blob/main/Analytcis_for_Content_Optimization.ipynb)  
 - [**Anomaly Detection in Univariate Time Series**](https://github.com/simodepth96/Data-Science-Portfolio/blob/main/Anomaly_Detection_Univariate_Time_series.ipynb)  
 - [**Correlation and Covariance Study**](https://github.com/simodepth96/Data-Science-Portfolio/blob/main/Correlation_%26_Covariance_Study.ipynb)  
