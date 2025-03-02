@@ -17,7 +17,7 @@ All projects are listed below in **alphabetical order**:
 - [**EURO 2024: EDA, Correlation, and Causation Analysis**](https://github.com/simodepth96/Data-Science-Portfolio/blob/main/EURO_2024_EDA%2C_Correlation_and_Causation_Analaysis.ipynb)  
 - [**EURO 2024: Italy Stats**](https://github.com/simodepth96/Data-Science-Portfolio/blob/main/EURO_2024_Italy_Stats.ipynb)  
 - [**Exploratory Data Analysis of Google Autosuggest**](https://github.com/simodepth96/Data-Science-Portfolio/blob/main/Exploratory_Data_Analysis_of_Google_Autosuggest.ipynb)
-- [**Exploring Defensive Team Performances in the New Champions League Format**](https://github.com/simodepth96/Data-Science-Portfolio/blob/main/Exploring_Team_Performances_in_the_New_Champions_League_Format.ipynb)
+- [**Exploring Defensive Team Performances in the New Champions League Format**](https://github.com/simodepth96/Data-Science-Portfolio/blob/main/Exploring_Defensive_Team_Performances_in_the_New_Champions_League_Format.ipynb)
 - [**Health Check Search Analytics**](https://github.com/simodepth96/Data-Science-Portfolio/blob/main/Health_Check_Search_Analytics.ipynb)  
 - [**Official Linear Regression Model in Python**](https://github.com/simodepth96/Data-Science-Portfolio/blob/main/Official_Linear_regression_model_in_Python.ipynb)  
 - [**Olympics Women 100m Freestyle EDA in R**](https://github.com/simodepth96/Data-Science-Portfolio/blob/main/Olympics_Women_100m_Freestyle_EDA_in_R.ipynb)  
